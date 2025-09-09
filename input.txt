@@ -1,0 +1,9 @@
+Hello Team,
+
+Please contact us at support@example.com for help.
+For sales, reach out to sales@company.org.
+HR department: hr@startup.io
+Invalid email: test@
+
+Regards,
+Abdul Hanan
